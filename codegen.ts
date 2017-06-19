@@ -1,4 +1,6 @@
 // автоматическая генерация кода из  апи на swagger до angular1.4 на typescript
+// ссылка на мой npm профиль https://www.npmjs.com/~fenvenfen 
+
 import {EnumGeneration} from './enumViewGenerator';
 
 export namespace ModelGeneration {
